@@ -1,0 +1,11 @@
+#Ignore all
+*
+
+#Except for
+!.gitignore
+!centos/Vagrantfile
+!ubuntu/Vagrantfile
+!vagrant-docker-swarm/LICENSE
+!vagrant-docker-swarm/README
+!vagrant-docker-swarm/Vagrantfile
+!vagrant-docker-swarm/provision.sh
